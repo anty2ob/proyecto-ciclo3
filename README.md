@@ -16,4 +16,4 @@ Este proyecto integra las materias de Aprendizaje Profundo, Bases de Datos No Re
 
 ## Versiones
 
-- Versión actual: *v0.0.1*
+- Versión actual: *v0.1.0-alpha*
